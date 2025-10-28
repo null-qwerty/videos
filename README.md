@@ -1,4 +1,6 @@
-# 托管在 GitHub 上的视频床
+# videos
+
+`https://videos.null-qwerty.work`
 
 这是一个视频床仓库，用于在 GitHub 上托管视频资源。
 
